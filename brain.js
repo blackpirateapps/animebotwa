@@ -368,7 +368,7 @@ const inf=` ════ ❃•*Sam Bot 3.0* •❃ ════
 \`\`\`Visit here: sambot if you have any feature feel free to contact owner by typing =owner or =mods\`\`\` 
 `
 let buttonMessagei = {
-        image: { url: "https://telegra.ph/file/05a5910097d3dd9743ebb.jpg" },
+        image: { url: "https://telegra.ph/file/37289892b8032f795dd0d.png" },
         caption: inf,
         footer: 'Sam Bot',
         buttons: ibut,
