@@ -1,7 +1,7 @@
 {
   "name": "Mizuhara~Arus",
   "description": "whatsapp multi device bot build with nodejs on baileys",
-  "repository": "https://github.com/Arus-Bots/Mizuhara/",
+  "repository": "https://github.com/blackpirateapps/animebotwa/",
   "logo": "https://telegra.ph/file/324ba754638d6b0f97b94.jpg",
   "keywords": ["nodejs", "bot", "whatsapp bot", "whatsapp automation", "multi device"],
   "buildpacks": [
