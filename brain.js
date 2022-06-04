@@ -214,6 +214,9 @@ case 'menu':
 
 const hlp=`
  *U^I^U  Hey ${pushname} Senpai, I'm Sam Bot*
+ 
+ *JOIN OUR NEW GROUP*
+ https://chat.whatsapp.com/Efn8G3r0v7uDA4UPHloX7v
 
 │➥  \`\`\`Here are my listed commands, Have fun in using them:-\`\`\`
 
