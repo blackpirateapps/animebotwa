@@ -213,13 +213,10 @@ let buttonMessaged = {
 case 'menu':
 
 const hlp=`
- *U^I^U  Hey ${pushname} Senpai, I'm Sam Bot*
+ *U^I^U  Hey ${pushname} Senpai, I'm Sam Bot v3.0*
  
- *JOIN OUR NEW GROUP*
- https://chat.whatsapp.com/Efn8G3r0v7uDA4UPHloX7v
 
 │➥  \`\`\`Here are my listed commands, Have fun in using them:-\`\`\`
-
 
 
  *BASIC COMMANDS* 
