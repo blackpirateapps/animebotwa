@@ -1104,6 +1104,25 @@ case 'gimage':case 'image': {
                     return('error..')
                 })
                 break
+			
+	case 'dankmemes':
+                waifudi = await axios.get('https://akaneko-api.herokuapp.com/api/dankmemes')
+              
+                var wbutssbdank = [
+        {buttonId: `${prefix}dankmemes`, buttonText: {displayText: `NEXT`}, type: 1},
+    
+        ]
+      let buttonssbMessage = {
+       image: await getBuffer(waifudi.data.url),
+       caption:  `*Here you go*`,
+      footer: 'Sam Bot',
+      buttons: wbutssbdank,
+      headerType: 4
+      }
+            await arus.sendMessage(m.chat,buttonssbMessage, { quoted:m }).catch(err => {
+                    return('error..')
+                })
+                break		
 				
 				case 'meme':
                 let meme = await axios.get('https://api.popcatdev.repl.co/meme')
