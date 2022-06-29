@@ -1112,7 +1112,8 @@ case 'gimage':case 'image': {
         {buttonId: `${prefix}dankmemes`, buttonText: {displayText: `NEXT`}, type: 1},
     
         ]
-      let buttonssbMessage = {
+		
+      let buttonsskbMessage = {
        image: await getBuffer(waifudi.data.url),
        caption:  `*Here you go*`,
       footer: 'Sam Bot',
